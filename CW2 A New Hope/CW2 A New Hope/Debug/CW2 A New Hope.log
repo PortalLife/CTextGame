@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\portallife\documents\uni\games dev\coursework1\cw2 a new hope\cw2 a new hope\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\portallife\documents\uni\games dev\coursework1\cw2 a new hope\cw2 a new hope\main.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Game.cpp
+c:\users\portallife\documents\uni\games dev\coursework1\cw2 a new hope\cw2 a new hope\game.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\portallife\documents\uni\games dev\coursework1\cw2 a new hope\cw2 a new hope\game.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\portallife\documents\uni\games dev\coursework1\cw2 a new hope\cw2 a new hope\game.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  Character.cpp
+  Generating Code...
+  CW2 A New Hope.vcxproj -> C:\Users\PortalLife\Documents\uNI\games dev\Coursework1\CW2 A New Hope\Debug\CW2 A New Hope.exe
+  CW2 A New Hope.vcxproj -> C:\Users\PortalLife\Documents\uNI\games dev\Coursework1\CW2 A New Hope\Debug\CW2 A New Hope.pdb (Full PDB)
